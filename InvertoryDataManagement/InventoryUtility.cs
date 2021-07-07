@@ -30,15 +30,39 @@ namespace InvertoryDataManagement
         }
         public class Pulse
         {
-            public string name { get; set; }
-            public int weight { get; set; }
-            public int price { get; set; }
+            public string name 
+            { 
+                get; 
+                set; 
+            }
+            public int weight 
+            { 
+                get; 
+                set; 
+            }
+            public int price 
+            { 
+                get; 
+                set; 
+            }
         }
         public class Wheat
         {
-            public string name { get; set; }
-            public int weight { get; set; }
-            public int price { get; set; }
+            public string name 
+            { 
+                get; 
+                set; 
+            }
+            public int weight 
+            { 
+                get; 
+                set; 
+            }
+            public int price 
+            { 
+                get; 
+                set; 
+            }
         }
     }
 }
