@@ -1,0 +1,53 @@
+{
+  "riceList": [
+    {
+      "name": "Sugar free Rice",
+      "weight": 15,
+      "price": 40
+    },
+    {
+      "name": "Cut Rice",
+      "weight": 15,
+      "price": 60
+    },
+    {
+      "name": "Basmathi Rice",
+      "weight": 15,
+      "price": 55
+    }
+  ],
+  "pulseList": [
+    {
+      "name": "Red Gram",
+      "weight": 12,
+      "price": 35
+    },
+    {
+      "name": "Black Gram",
+      "weight": 10,
+      "price": 45
+    },
+    {
+      "name": "Mung dal",
+      "weight": 20,
+      "price": 40
+    }
+  ],
+  "wheatList": [
+    {
+      "name": "Common Wheat",
+      "weight": 10,
+      "price": 30
+    },
+    {
+      "name": "Spelt Wheat",
+      "weight": 15,
+      "price": 50
+    },
+    {
+      "name": "Durum Wheat",
+      "weight": 7,
+      "price": 42
+    }
+  ]
+}
